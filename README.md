@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 </h1>
-<h3 align="center">My name is Nathan Rodriguez and I am a student at Codeup! .</h3>
+<h3 align="center">My name is Nathan Rodriguez and I am a student at Codeup!</h3>
 
 - 🔭 I'm currently working on [Triphub]
 
